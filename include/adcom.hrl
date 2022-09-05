@@ -1,0 +1,12 @@
+-type adcom_api_framework() :: integer().
+-type adcom_companion_type() :: 1 | 2 | 3.
+-type adcom_creative_attribute() :: integer().
+-type adcom_creative_subtype_audio_video() :: integer().
+-type adcom_creative_subtype_display() :: 1 | 2 | 3 | 4.
+-type adcom_delivery_method() :: 1 | 2 | 3.
+-type adcom_expandable_directions() :: 1 | 2 | 3 | 4 | 5 | 6.
+-type adcom_linearity_mode() :: 1 | 2.
+-type adcom_placement_position() :: 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7.
+-type adcom_placement_subtype_video() :: 1 | 2 | 3 | 4 | 5.
+-type adcom_playback_cessation_mode() :: 1 | 2 | 3.
+-type adcom_playback_method() :: 1 | 2 | 3 | 4 | 5 | 6 | 7.
